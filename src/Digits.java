@@ -3,7 +3,7 @@ interface MinMax<T extends Comparable<T>>{
     T min();
 }
 
-public class Digits<T extends Comparable<T>> implements MinMax<T>{
+class Digits<T extends Comparable<T>> implements MinMax<T>{
     T[] temp;
 
     public Digits(T[] o){
