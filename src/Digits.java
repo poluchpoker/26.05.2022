@@ -46,7 +46,7 @@ class Main {
         System.out.println("Максимальное число в массиве:" + intMinMax.max());
         System.out.println("Минимальное число в массиве:" + intMinMax.min());
         System.out.println("Максимальный чар в массиве:" + charMinMax.max());
-        System.out.println("Минимальный число в массиве:" + charMinMax.min());
+        System.out.println("Минимальный чар в массиве:" + charMinMax.min());
         System.out.println("Максимальная строка в массиве:" + strMinMax.max());
         System.out.println("Минимальная строка в массиве:" + strMinMax.min());
     }
